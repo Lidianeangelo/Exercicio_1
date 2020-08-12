@@ -1,20 +1,14 @@
 
 ### Bem vindo! :kissing_heart:
 
-<p>Sou Publicitária de formação :sunglasses: e Iniciante de Programação pelo {reprograma} :purple_heart:</p>
-<p>Participo e também faço projetos com iniciativas sociais :ok_woman:</p>
-<p></p>
-<p></p>
-## Veja meus projetos e os que atuo!
+<p>Sou Publicitária de formação :sunglasses: e Iniciante de Programação pelo {reprograma} :purple_heart: Participo e também faço projetos com iniciativas sociais :ok_woman:</p>
 
 <p>Me ajuda a ajudar https://www.instagram.com/me.ajuda.ajudar/</p>
 <p>Coletivo Simplicidade https://www.instagram.com/coletivosimplicidade/</p>
 <p>Publicitários Negros https://www.instagram.com/publicitariosnegros/</p>
-<p></p>
-<p></p>
-Quer me conhecer mais?
+
+<p>Quer me conhecer mais?</p>
 <p>Linkedin https://www.linkedin.com/in/lidianeangelo/</p>
-<p>E-mail: lidiane-angelo@hotmail.com</p>
 
 Tchau! :wave:
 <!--Imagem
